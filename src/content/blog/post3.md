@@ -58,9 +58,13 @@ npm run start
 ```
 
 Now All left is to build and deploy,use the command 
-```
-astro build
 
-```
-to preview it on browser 
+Actually this was a very painful process for me to understand 
+
+So I just forked the github repo ,made changes ,pushed the repo and connected this repo to netlify 
+
+as simple as it sound it took me lot of time to figure it out
+
+That's how I created my blog website 
+
 https://docs.astro.build/en/reference/cli-reference/

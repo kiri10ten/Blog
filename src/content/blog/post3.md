@@ -1,17 +1,66 @@
 ---
-title: "Demo Post 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
-heroImage: "/post_img.webp"
-badge: "Demo badge"
+title: "Sis created Blog website with no effort or atleast Minimal effort with Astro theme"
+description: "If you want to create so much then you might not have enough time to create your personal portfolio or blog website "
+pubDate: "jul 31 2023"
+heroImage: "/blog1.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+I don't know ,How I ended up writing this blog post in the midnight with taylor swift's midnight in the background ?!!!
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+but I hope you find this blog helpful !
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+I don't want to talk too much ,Let's keep it practical ,the extra details ,you will learn it on your own
+
+Like what is Astro ,why astro and everything ,Here is the link to the official website
+
+https://astro.build/
+
+In the website , I browsed themes under Resources,Inside filter I  selected category ,under category selected portfolio 
+
+As you can see,I selected a very simple yet powerful theme called astrofy 
+
+A template for my Personal Portfolio Website built with Astro and TailwindCSS. Created in minute a website with Blog, CV, Project Section, Store and RSS Feed.
+
+https://astro.build/themes/details/astrofy/
+
+I choose Astrofy for several reason but the main reason would be for markdown editing ,it makes life easy 
+
+I would suggest you to read the github readme provided by the creator of the theme 
+
+He/she may provide extra details on how to further customize the theme 
+
+I read the readme well and changed It acording to my preference ,Initially I  only changed the index.astro and this blog post
+
+Then  I gradually changed few more things to experiment 
+
+> unsolicited advice from sister
+>> # Try out ,Trying is free so try 
+
+https://github.com/manuelernestog/astrofy
+
+These are very self explanatory !
+
+you use the command 
+
+```
+npm install
+
+```
+to install necessary dependency 
+
+Run the command 
+
+```
+npm run start
+
+```
+
+Now All left is to build and deploy,use the command 
+```
+astro build
+
+```
+to preview it on browser 
+https://docs.astro.build/en/reference/cli-reference/

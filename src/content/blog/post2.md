@@ -15,11 +15,13 @@ Tech skills/tools added
 
 ```
 
+## The story starts..
+
 This is not a clickbait
 
 but I think this whole world works under timing and luck
 
-I love the vue js community, I never thought I will be using Vue Full Fledgly for a project
+I love the `vuejs community`, I never thought I will be using Vue Full Fledgly for a project
 
 my focus was only on machine learning for the past 1 year.
 
@@ -33,6 +35,8 @@ Then one fine day, thanks to the person I connected with on LinkedIn, she sent m
 
 but miserably failed the same
 
+> I love how failure makes you cry but also strong
+
 I am only grateful for the interview, I would have not probably learned all those designs if not for that interview
 
 this time figma become easier and I learned every design concept, Thanks to it, I was able to design for an open-source project too
@@ -43,11 +47,13 @@ So I decided to use Vue
 
 While I was brushing up on vue ..here
 
-I came to know so many people were using nuxt, I am not new to static site development, I have used Hexo before, so I had a vague idea
+I came to know so many people were using nuxt, I am not new to static site development, I have used Hexo before, in fact this website is built with astro,so I had a vague idea
 
 but I wanted to learn how to connect Vue and Django so I searched youtube to find a tutorial fortunately came across this tutorial where code stein created a job board application
 
 I have seen his vue video on freecodecamp before, I like his way of teaching, so I was curious and watched this video
+
+https://youtu.be/JjBqRihjwKM
 
 he used nuxt and tailwind CSS
 
@@ -55,14 +61,18 @@ was very glad I watched it
 
 It made me realize really how powerful nuxt was, the next thing I did was to install nuxt and use it
 
-for tailwind css of course it made me understand how powerful and wonderful it is
+for tailwind css of course his video made me understand how powerful and wonderful it is
 
 but It took me another video and I sold myself to tailwind css completely after this, I guess there is no going back once you get used to tailwind css
 
+https://youtu.be/ei20HfTloFE
+
 And I came across a post by Yihong san on Twitter about something on Postresql...one thing led to another and I came across supabase
+
+https://supabase.com/docs/guides/getting-started/quickstarts/vue
 
 I don't have to use Django for this project, since supabase provides a database as a service
 
-well, so sorry maybe Vercel is a clickbait, what is there, I know Netlify ...but this time I decided to deploy it on vercel
+well, so sorry maybe Vercel is a clickbait, what is there, I know Netlify ...but this time I decided to deploy it on vercel.
 
-will create more clear posts on the project, Once I complete it! Thanks for reading 😊
+🦋✨😊

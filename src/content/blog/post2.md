@@ -75,4 +75,8 @@ I don't have to use Django for this project, since supabase provides a database 
 
 well, so sorry maybe Vercel is a clickbait, what is there, I know Netlify ...but this time I decided to deploy it on vercel.
 
+## Key learning
+
+Once you start creating you will learn everything, even if it is a lame idea, just try to build it. you may come across some amazing modules, packages, frameworks and people.
+
 🦋✨😊

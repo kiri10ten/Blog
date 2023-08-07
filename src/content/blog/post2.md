@@ -1,16 +1,68 @@
 ---
-title: "Demo Post 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 11 2022"
-heroImage: "/post_img.webp"
+title: "Sis added more skill sets within a week "
+description: "I never went for the treasure hunt but accidetly found them all"
+pubDate: "Aug 6 2023"
+heroImage: "/skillchibi.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Tech skills/tools added
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+```
+ - Tailwind css
+ - Nuxt
+ - Supabase
+ - Vercel
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+```
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+This is not a clickbait
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+but I think this whole world works under timing and luck
+
+I love the vue js community, I never thought I will be using Vue Full Fledgly for a project
+
+my focus was only on machine learning for the past 1 year.
+
+but I was in touch with web development, thanks to my cousin who was learning it, I would spend some time teaching him, so I was able to be still in touch
+
+but these days are a point in my life where I wanted to get a job, so I applied for every job that interested me, UI/UX, Machine learning, and Web Development, thankfully my cousin brought to my attention the company in my district, so I applied for a developer job and I failed in the interview, the blame is on me of course
+
+It made me realize that I should go back and start doing competitive programming and brush up on my problem-solving skill
+
+Then one fine day, thanks to the person I connected with on LinkedIn, she sent me a Google form where there were several job openings, there were several roles mentioned, I wanted to either become a developer or UI/UX designer, thankfully I got selected for the initial round
+
+but miserably failed the same
+
+I am only grateful for the interview, I would have not probably learned all those designs if not for that interview
+
+this time figma become easier and I learned every design concept, Thanks to it, I was able to design for an open-source project too
+
+Later I created a good design for the current project I am talking about, it was a Japanese community project, and I was very thankful when my design was said good!
+
+So I decided to use Vue
+
+While I was brushing up on vue ..here
+
+I came to know so many people were using nuxt, I am not new to static site development, I have used Hexo before, so I had a vague idea
+
+but I wanted to learn how to connect Vue and Django so I searched youtube to find a tutorial fortunately came across this tutorial where code stein created a job board application
+
+I have seen his vue video on freecodecamp before, I like his way of teaching, so I was curious and watched this video
+
+he used nuxt and tailwind CSS
+
+was very glad I watched it
+
+It made me realize really how powerful nuxt was, the next thing I did was to install nuxt and use it
+
+for tailwind css of course it made me understand how powerful and wonderful it is
+
+but It took me another video and I sold myself to tailwind css completely after this, I guess there is no going back once you get used to tailwind css
+
+And I came across a post by Yihong san on Twitter about something on Postresql...one thing led to another and I came across supabase
+
+I don't have to use Django for this project, since supabase provides a database as a service
+
+well, so sorry maybe Vercel is a clickbait, what is there, I know Netlify ...but this time I decided to deploy it on vercel
+
+will create more clear posts on the project, Once I complete it! Thanks for reading 😊
